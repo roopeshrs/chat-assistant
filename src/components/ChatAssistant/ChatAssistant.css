@@ -1,0 +1,16 @@
+.chat-assistant{
+    background: linear-gradient(156.72deg, #E6EEFF 28.87%, rgba(230, 238, 255, 0) 103.1%);
+    min-height: 100vh;
+    padding: 40px 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.chat-assistant__container{
+    width: 360px;
+    min-height: 800px;
+    border: 7px solid #FFFFFF;
+    border-radius: 20px;
+    background: #FFFFFF;
+}

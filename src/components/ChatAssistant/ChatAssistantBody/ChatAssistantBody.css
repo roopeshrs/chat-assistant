@@ -1,0 +1,9 @@
+.chat-assistant-body{
+    width: 100%;
+    height: 640px;
+    padding: 40px 10px;
+    background: #FFFFFF;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
